@@ -1,0 +1,8 @@
+{
+  "name": "Inventory Management System",
+  "description": "An advanced inventory management system in Kurdish for tracking warehouse items, stationery, cleaning products, food, and cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
